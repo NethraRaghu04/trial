@@ -13,6 +13,7 @@
 		A1F73B41268E1B4800EFCE67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B3F268E1B4800EFCE67 /* Main.storyboard */; };
 		A1F73B43268E1B5A00EFCE67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B42268E1B5A00EFCE67 /* Assets.xcassets */; };
 		A1F73B46268E1B5A00EFCE67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B44268E1B5A00EFCE67 /* LaunchScreen.storyboard */; };
+		A1F73B4E268E1CF300EFCE67 /* Smiling Mind.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B4D268E1CF200EFCE67 /* Smiling Mind.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1F73B42268E1B5A00EFCE67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1F73B45268E1B5A00EFCE67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1F73B47268E1B5A00EFCE67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1F73B4D268E1CF200EFCE67 /* Smiling Mind.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Smiling Mind.mp4"; path = "../../../../Downloads/Smiling Mind.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		A1F73B38268E1B4800EFCE67 /* trial */ = {
 			isa = PBXGroup;
 			children = (
+				A1F73B4D268E1CF200EFCE67 /* Smiling Mind.mp4 */,
 				A1F73B39268E1B4800EFCE67 /* AppDelegate.swift */,
 				A1F73B3B268E1B4800EFCE67 /* SceneDelegate.swift */,
 				A1F73B3D268E1B4800EFCE67 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				A1F73B46268E1B5A00EFCE67 /* LaunchScreen.storyboard in Resources */,
 				A1F73B43268E1B5A00EFCE67 /* Assets.xcassets in Resources */,
+				A1F73B4E268E1CF300EFCE67 /* Smiling Mind.mp4 in Resources */,
 				A1F73B41268E1B4800EFCE67 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
