@@ -14,6 +14,9 @@
 		A1F73B43268E1B5A00EFCE67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B42268E1B5A00EFCE67 /* Assets.xcassets */; };
 		A1F73B46268E1B5A00EFCE67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B44268E1B5A00EFCE67 /* LaunchScreen.storyboard */; };
 		A1F73B4E268E1CF300EFCE67 /* Smiling Mind.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1F73B4D268E1CF200EFCE67 /* Smiling Mind.mp4 */; };
+		A1F73B54268E6B4400EFCE67 /* SubmitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F73B53268E6B4300EFCE67 /* SubmitViewController.swift */; };
+		A1F73B56268E6B6C00EFCE67 /* MoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F73B55268E6B6C00EFCE67 /* MoodViewController.swift */; };
+		A1F73B5A268E6BAB00EFCE67 /* InspirationalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F73B59268E6BAB00EFCE67 /* InspirationalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		A1F73B45268E1B5A00EFCE67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1F73B47268E1B5A00EFCE67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1F73B4D268E1CF200EFCE67 /* Smiling Mind.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Smiling Mind.mp4"; path = "../../../../Downloads/Smiling Mind.mp4"; sourceTree = "<group>"; };
+		A1F73B53268E6B4300EFCE67 /* SubmitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitViewController.swift; sourceTree = "<group>"; };
+		A1F73B55268E6B6C00EFCE67 /* MoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoodViewController.swift; sourceTree = "<group>"; };
+		A1F73B59268E6BAB00EFCE67 /* InspirationalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspirationalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				A1F73B42268E1B5A00EFCE67 /* Assets.xcassets */,
 				A1F73B44268E1B5A00EFCE67 /* LaunchScreen.storyboard */,
 				A1F73B47268E1B5A00EFCE67 /* Info.plist */,
+				A1F73B53268E6B4300EFCE67 /* SubmitViewController.swift */,
+				A1F73B55268E6B6C00EFCE67 /* MoodViewController.swift */,
+				A1F73B59268E6BAB00EFCE67 /* InspirationalViewController.swift */,
 			);
 			path = trial;
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1F73B56268E6B6C00EFCE67 /* MoodViewController.swift in Sources */,
+				A1F73B54268E6B4400EFCE67 /* SubmitViewController.swift in Sources */,
+				A1F73B5A268E6BAB00EFCE67 /* InspirationalViewController.swift in Sources */,
 				A1F73B3E268E1B4800EFCE67 /* ViewController.swift in Sources */,
 				A1F73B3A268E1B4800EFCE67 /* AppDelegate.swift in Sources */,
 				A1F73B3C268E1B4800EFCE67 /* SceneDelegate.swift in Sources */,
